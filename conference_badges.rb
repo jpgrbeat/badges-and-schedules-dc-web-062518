@@ -9,8 +9,6 @@ def batch_badge_creator(array)
   end
   badge_array
 end
-    
-end
 def assign_rooms
 end
 def printer
